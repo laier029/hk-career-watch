@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-02T16:19:51.251970+00:00",
+  "updated_at": "2026-10-03T07:45:41.276011+00:00",
   "employer_count": 97,
   "jobs": [
     {
@@ -15,7 +15,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "85731b8812cbe833033b0d0e",
@@ -30,7 +31,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "d02cfd2b37d92b0ac929950c",
@@ -45,7 +47,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "59e99826ca2f1dc3349eca54",
@@ -60,7 +63,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "1c0821bd225ab273e18866ea",
@@ -75,7 +79,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "694cb54cb87f12413525ddcd",
@@ -90,7 +95,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "bee1edc2e5baecba6c96048a",
@@ -105,7 +111,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "86856e7e0bab37043a840217",
@@ -120,7 +127,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "5d079bb3c90d318299dc4fdf",
@@ -135,7 +143,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "3153eea7e0c474029a41a443",
@@ -150,7 +159,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "2d7273ca83fe6c847ae2c202",
@@ -165,7 +175,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "393b60590ef7d023a49a82b2",
@@ -180,7 +191,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "6234627cc066887c31f7c7dc",
@@ -188,14 +200,15 @@
       "title": "Graduate Analyst",
       "category": "graduate",
       "origin": "external",
-      "posted": null,
+      "posted": "2026-10-02",
       "deadline": null,
       "url": "https://www.linkedin.com/jobs/view/4472989486",
       "source": "JobSpy · linkedin",
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "1b047cf06b4fc14aac799626",
@@ -210,7 +223,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "89c041802dd6a66bc750ed92",
@@ -225,7 +239,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "8f01696cdf4587ff1275aca6",
@@ -233,14 +248,15 @@
       "title": "Strategy Intern (BytePlus) - 2027 Start",
       "category": "daily",
       "origin": "external",
-      "posted": null,
+      "posted": "2026-10-02",
       "deadline": null,
       "url": "https://www.linkedin.com/jobs/view/4474559174",
       "source": "JobSpy · linkedin",
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "98f4677ca62d1148804b59ef",
@@ -255,7 +271,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "0f10a42925cc35dfe0f993f6",
@@ -270,7 +287,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e0efd483d7387588ed474017",
@@ -285,7 +303,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Southern District, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "91c6d8665dd3e6426386d46b",
@@ -300,7 +319,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "9fe4fb7b6d8c4f7e71a4d32c",
@@ -315,7 +335,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "cb6868d063ce997fa390ebd3",
@@ -330,7 +351,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "1a7ef18418d8de42741a2f4c",
@@ -345,7 +367,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "b34e77ae221701ebca32c177",
@@ -360,7 +383,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "a775d43a7af4298060ccf965",
@@ -375,7 +399,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "deb22614c3c864a544f514bd",
@@ -390,7 +415,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "b4dbe2eb2f228dae203b4d9c",
@@ -405,7 +431,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e420fa4701bd2368fae3c692",
@@ -420,7 +447,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "ce0a3f2299b72b2083c871bc",
@@ -435,7 +463,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "517d709f2e4c96ee4dc35d2a",
@@ -450,7 +479,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e28c1062a1d1077489ff7683",
@@ -465,7 +495,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "60fdffc7bce88c23c884745d",
@@ -480,7 +511,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "cd3490bb02baba013882f91d",
@@ -495,7 +527,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "2f8595addb710932ad50d2b6",
@@ -510,7 +543,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e11eec1c6d20fcc0ee3c8ee5",
@@ -525,7 +559,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "75dcd0106782c8c42384dcbe",
@@ -540,7 +575,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "78f398270d904e4b00be285a",
@@ -555,7 +591,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "2229ab90e25143a6b843d90d",
@@ -570,7 +607,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "4a0530dfb7c3aef4b2c77008",
@@ -585,7 +623,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "0bc1bdf7f08138d8c7a5c9a9",
@@ -600,7 +639,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "296f1ad7a1dc767051d3a0c9",
@@ -615,7 +655,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "80201d1fdf18f173d13bf6b4",
@@ -630,7 +671,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "4357ec9da4099eb35ba5d513",
@@ -645,7 +687,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "8de4e166332a9127b3dd3ddb",
@@ -660,7 +703,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "0d54adb0125e0ad8a2818180",
@@ -675,7 +719,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "405d5dca17e6fd80d2a2ce91",
@@ -690,7 +735,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "639c4459ed8613dc8c01698a",
@@ -698,14 +744,15 @@
       "title": "Intern (AI-Focused at Credit Trading Desk, APAC) (6 months)",
       "category": "daily",
       "origin": "external",
-      "posted": null,
+      "posted": "2026-10-02",
       "deadline": null,
       "url": "https://www.linkedin.com/jobs/view/4472989877",
       "source": "JobSpy · linkedin",
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "318ecc370e04b2c6ef2b06ef",
@@ -720,7 +767,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "6bb6f4bddc121c1c8284376a",
@@ -735,7 +783,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "1ee6f16733be23529196321e",
@@ -750,7 +799,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "1e2c11e3d117f8fd1fb91d21",
@@ -765,7 +815,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "b099918bb534aca2f855eb29",
@@ -780,7 +831,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "0df94ae7e3a0c15560c535f1",
@@ -795,7 +847,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "0fb86a5d62ad58cdbe088043",
@@ -810,7 +863,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "94c108818baf0e564cb1ab8e",
@@ -825,7 +879,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "f9081b0a87b49c0d9b1fca8a",
@@ -840,7 +895,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "ce65acb3b43f00d02cc68666",
@@ -855,7 +911,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "3e818277b73f4c1644cdaa72",
@@ -870,7 +927,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "f4012ba9d38c4a538fc22a29",
@@ -885,7 +943,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hung Hom, KOW, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "8f4ebf250e8786d3973b804f",
@@ -900,7 +959,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "728f112bba1136fe34db6d53",
@@ -915,7 +975,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "9786be9a78abbb8b1ae1d829",
@@ -930,7 +991,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Lai Chi Kok, KOW, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "f9bec0d2cd6673244b4576c6",
@@ -945,7 +1007,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Lai Chi Kok, KOW, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "ffe649cd142603eb424bef6f",
@@ -960,7 +1023,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "KOW, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "97810e66159d5495b881f34c",
@@ -975,7 +1039,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Kowloon Bay, KOW, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "a2705cc1c6bd7615e31a7228",
@@ -990,7 +1055,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "b813eec8875f6cfff0c04f18",
@@ -1005,7 +1071,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "d5335d9b2967160b62116330",
@@ -1020,7 +1087,8 @@
       "note": "",
       "location": "HK Central Hong",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "245b7389564ecb0b2cc96afa",
@@ -1035,7 +1103,8 @@
       "note": "",
       "location": "HK Central Hong",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "de58b892a64c68a3871351d2",
@@ -1050,7 +1119,8 @@
       "note": "",
       "location": "HK Central Hong",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "d2d3b5711b8f778cac4c7ae8",
@@ -1065,7 +1135,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "f82a9b1ce5076d1b8ce24be9",
@@ -1080,7 +1151,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "d23e0e33c75cae114fd430e1",
@@ -1095,7 +1167,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "a79f09f342f65950d3bd4911",
@@ -1110,7 +1183,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "960d9563056c7c94b63484b8",
@@ -1125,7 +1199,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "c9c7465e44bc75b80085c8b3",
@@ -1140,7 +1215,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "31ac0fa08a055d8672a42595",
@@ -1155,7 +1231,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "77c331e41e69e4c9c9ab0b19",
@@ -1170,7 +1247,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "6b5edc3ebbd7f70c8cf067a7",
@@ -1185,7 +1263,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e8068122381991bdf9537045",
@@ -1200,7 +1279,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "20bab4bf00acc4f3010ccd03",
@@ -1215,7 +1295,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "b6dd2a2ee6db7bbb32700529",
@@ -1230,7 +1311,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "ab7ddfa27c5880b08854a727",
@@ -1245,7 +1327,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "64613273491d8251632a1f49",
@@ -1260,7 +1343,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e4a140758874fc0574b5ef4b",
@@ -1275,7 +1359,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "bcb45d9a0201f013ee764424",
@@ -1290,7 +1375,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "95bc923061036944c4c93152",
@@ -1305,7 +1391,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "2ca349c2d8f77715cecc73b8",
@@ -1320,7 +1407,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Kwun Tong District, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "19874418f4ee352de0d4fa20",
@@ -1335,7 +1423,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "f2c14a0c44694fe803348d18",
@@ -1350,7 +1439,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "6ad238e77c61948c17244dec",
@@ -1365,7 +1455,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:11:10.457072+00:00"
     },
     {
       "id": "6acf0953aeba0d4ea9ac27db",
@@ -1380,7 +1471,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "aef97bb32c8bfc146b486cf5",
@@ -1395,7 +1487,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "b60c7dc8b75413f247d701a8",
@@ -1410,7 +1503,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "17c294550cfb337013afb774",
@@ -1425,7 +1519,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "3e8dd42e77484230958f6cdc",
@@ -1440,7 +1535,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Central & Western District, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "9c51782f54aedf28ceb8cc59",
@@ -1455,7 +1551,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Kowloon Bay, KOW, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "b0bf5a1abd9e07882197b202",
@@ -1470,7 +1567,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Lantau Island, NT, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "3cc376c2436c6ae33a2674da",
@@ -1485,7 +1583,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "39c96ac28b570f79f52fab03",
@@ -1500,7 +1599,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "bd08dc562f94af738d4d30d2",
@@ -1515,7 +1615,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Remote, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "a7130a0a4802f0d052d6d2fa",
@@ -1530,7 +1631,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "c9e0f87acc95c230c72294ac",
@@ -1545,7 +1647,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "ec11ea072533a3907cbd15f5",
@@ -1560,7 +1663,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "0f42cb4e7bffd82e40174e0c",
@@ -1575,7 +1679,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Kowloon, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "43355c6e53c22ce4ed3564b6",
@@ -1590,7 +1695,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Kowloon, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:11:10.457072+00:00"
     },
     {
       "id": "09f0d8f00e9ef0130341207b",
@@ -1605,7 +1711,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Central & Western District, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "df55bad995ff7d0679790786",
@@ -1620,7 +1727,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "39b9e9e7c29a15d75261c9dc",
@@ -1635,7 +1743,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "deef3463d10d4e40b9292ff7",
@@ -1650,7 +1759,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Causeway Bay, HKI, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "bb8773710b0e97c1c379ffc9",
@@ -1665,7 +1775,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "87f1a9db40efe1856df39cbc",
@@ -1680,7 +1791,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "8b5d277cb90a3f5ed8410f17",
@@ -1695,7 +1807,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "d608addf48139bbbbe793dd7",
@@ -1710,7 +1823,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Remote, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "38cc597dcfc0141b1353ad07",
@@ -1725,7 +1839,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "0f3948979468bae415d392c0",
@@ -1740,7 +1855,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Central & Western District, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "8712313e804ad1d052197d8c",
@@ -1755,7 +1871,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Kowloon, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "a273cf98ccf49bf02b57151f",
@@ -1770,7 +1887,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Central & Western District, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "d9f2e3679515a695dfd376d6",
@@ -1785,7 +1903,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Central & Western District, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "535cb5c14e40fc2308ed60c1",
@@ -1800,7 +1919,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "7c148909bc3d5fe442527edf",
@@ -1815,7 +1935,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "8f718abc7b9ee009f73cf55c",
@@ -1830,7 +1951,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "9102501f49486e637bbd80e0",
@@ -1845,7 +1967,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "f14fb076782a444fd0af7702",
@@ -1860,7 +1983,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "3b5779660b501b149617062a",
@@ -1875,7 +1999,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "3c7170066eacfc6876bf173c",
@@ -1890,7 +2015,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "add1c8661417121e4ef65462",
@@ -1905,7 +2031,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "48c334f57256ff42d4df0472",
@@ -1920,7 +2047,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "6cc42881f8e8dc73ba81dbe6",
@@ -1935,7 +2063,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Wan Chai District, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "bab3d2243cfedbf58c6a2c4e",
@@ -1950,7 +2079,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "a4e8c1009423880efa509844",
@@ -1965,7 +2095,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "918fd8fd9175f83462a36783",
@@ -1980,7 +2111,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "dd3cf8973889dd91697d3ea5",
@@ -1995,7 +2127,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "591aa92d8a09ec9f58f2c46a",
@@ -2010,7 +2143,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "fbf239fe59487c5535b38414",
@@ -2025,7 +2159,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "1efba339affb0b2410fb5906",
@@ -2040,7 +2175,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "32ca1daf420d1ad83812a695",
@@ -2055,7 +2191,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "d1824e3e0e08684ff6fcf216",
@@ -2070,7 +2207,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Wan Chai District, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "af9bd71d65216280c6574c8e",
@@ -2085,7 +2223,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e57a58e457e5ab6cff4fe8dd",
@@ -2100,7 +2239,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "1600e7da3eeac7760bc0698f",
@@ -2115,7 +2255,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Central & Western District, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:11:10.457072+00:00"
     },
     {
       "id": "b5a304088ac78b40530edca3",
@@ -2130,7 +2271,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Eastern District, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "f674ca184b2ed45a942a1390",
@@ -2145,7 +2287,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "8015b4cf497c72b8b6334939",
@@ -2160,7 +2303,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "81b7f8f393124122494e8f6b",
@@ -2175,7 +2319,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "219d9a0306c822d19ad0512e",
@@ -2190,7 +2335,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "cd2e728868ee1845fa8803cb",
@@ -2205,7 +2351,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:11:10.457072+00:00"
     },
     {
       "id": "1b79d35e6282f0fd3a9c4ffb",
@@ -2220,7 +2367,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:11:10.457072+00:00"
     },
     {
       "id": "81944c54b83d5584f29158f6",
@@ -2235,7 +2383,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Kowloon Bay, KOW, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "252f0529d71231bf5b228d06",
@@ -2250,7 +2399,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "8135ac1fce473d53e1984d85",
@@ -2265,7 +2415,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HKI, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "28f3b13eeab4112503ed5948",
@@ -2280,7 +2431,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HKI, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "871a1e682bf3ce3732051651",
@@ -2295,7 +2447,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "72b443775d2527f087a483b5",
@@ -2310,7 +2463,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "78914d65525c2f59447f8d23",
@@ -2325,7 +2479,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "55f0782dad0e1a77a2e4f2d7",
@@ -2340,7 +2495,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "48326335485ec8f0eb9eb296",
@@ -2355,7 +2511,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "4648aca5cf0b35e89d4d02ed",
@@ -2370,7 +2527,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "2609b9f845b9dac40707d56a",
@@ -2385,7 +2543,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "9d9149889c18b595d76ddd1f",
@@ -2400,7 +2559,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:11:10.457072+00:00"
     },
     {
       "id": "f2d62b48a8c335ead8c3b883",
@@ -2415,7 +2575,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "bc8c43971a2f6d739a8b5feb",
@@ -2430,7 +2591,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "6758973ee9420f89a1ef06d5",
@@ -2445,7 +2607,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "561c64761f3e4f546419b304",
@@ -2460,7 +2623,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "1f08b7d6c5e4500018d14dcd",
@@ -2475,7 +2639,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Sheung Wan, HKI, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "a94df06f8eb5a9f61db908c9",
@@ -2490,7 +2655,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HKI, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "c45a0ccb731c1fe686b7198f",
@@ -2505,7 +2671,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hung Hom, KOW, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "71b412b91a6e6435e8b867a7",
@@ -2520,7 +2687,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "48df808750d32c1ee5263cc1",
@@ -2535,7 +2703,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Wan Chai District, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "8a0efe7f005cfad5409fff38",
@@ -2550,7 +2719,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "bdbcdbf18c2cf0951f8297a9",
@@ -2565,7 +2735,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e751ba7146f2ee57060db908",
@@ -2580,7 +2751,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "027a03ed363172d001b7a96b",
@@ -2595,7 +2767,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "aa27a05b5048afb850169998",
@@ -2610,7 +2783,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:11:10.457072+00:00"
     },
     {
       "id": "928ed6dec0b0703962dd4651",
@@ -2625,7 +2799,8 @@
       "note": "",
       "location": "Hong Kong",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "ed910918566724c37813190a",
@@ -2640,7 +2815,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "199b881ff6607ab7ff914e60",
@@ -2655,7 +2831,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "cd369e35b24a9c5b2f8b52a6",
@@ -2670,7 +2847,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "75756183e23dc82d26dde44d",
@@ -2685,7 +2863,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "c13d9f11fdc642fabb406525",
@@ -2700,7 +2879,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "b91b5fd734209c64a6c82aa7",
@@ -2715,7 +2895,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "a6bc66fc8d30ba856656a07c",
@@ -2730,7 +2911,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "fcc65c2e390432ca0967083c",
@@ -2745,7 +2927,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "98c9dc1823c826440e95894e",
@@ -2760,7 +2943,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Happy Valley, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "d2a64ef038b255055a8bf663",
@@ -2775,7 +2959,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "0f2cc155b296124afdd58fa4",
@@ -2790,7 +2975,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "d61a9307c680ee6ced39cbc5",
@@ -2805,7 +2991,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:11:10.457072+00:00"
     },
     {
       "id": "d1446faf7b8f4c12a0efaa4a",
@@ -2820,7 +3007,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "6bf62d84cd710143bc5592be",
@@ -2835,7 +3023,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:11:10.457072+00:00"
     },
     {
       "id": "98ce6829f8be0dd873108301",
@@ -2850,7 +3039,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "3d8840b66ceb82940c3be5c7",
@@ -2865,7 +3055,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "7244c18afaefb362b1d29d39",
@@ -2880,7 +3071,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "f19d03face0be813e05a11fe",
@@ -2895,7 +3087,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "edb76b722a1cf8c27dea0ec8",
@@ -2910,7 +3103,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Central, HKI, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "df7906387c827c056b63b06f",
@@ -2925,7 +3119,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "25f2b6c162b103b416e1c249",
@@ -2940,7 +3135,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "d33a41ff065c60c03778889d",
@@ -2955,7 +3151,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Wan Chai, HKI, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "419a0cdb194dd3e0bbba416c",
@@ -2970,7 +3167,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "f6bb621b4acb453a1e38811e",
@@ -2985,7 +3183,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "2144befa070811102d36648a",
@@ -3000,7 +3199,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "36eae63f50a02eccd7b15ae9",
@@ -3015,7 +3215,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e1ec3289d892950afa49e2cb",
@@ -3030,7 +3231,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "be456e4ced15cd71c0f2fdc6",
@@ -3045,7 +3247,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "ecbeb78b1623964815f62bb2",
@@ -3060,7 +3263,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "75b7a8b5379c926c10385e2e",
@@ -3075,7 +3279,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Kwun Tong District, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:11:10.457072+00:00"
     },
     {
       "id": "8f05e0390f9b608c7b46c306",
@@ -3090,7 +3295,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:11:10.457072+00:00"
     },
     {
       "id": "4c77116749e53d7d1a3a0d09",
@@ -3105,7 +3311,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:11:10.457072+00:00"
     },
     {
       "id": "3163842b0e958567f05b3f84",
@@ -3120,7 +3327,8 @@
       "note": "发现线索，申请前请核对原始岗位页。 2027 届项目，需核对毕业时间与入职要求。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:11:10.457072+00:00"
     },
     {
       "id": "18d832ecb4dc736b2406b7ab",
@@ -3135,7 +3343,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "2a1d87940ee6953f5779317c",
@@ -3150,7 +3359,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Hong Kong, Hong Kong SAR",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "a2598f100604da13ef29c17a",
@@ -3165,7 +3375,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "f1f3c2b644d0484b4275215e",
@@ -3180,7 +3391,8 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "Wan Chai, HKI, HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:11:10.457072+00:00"
     },
     {
       "id": "d12661357c794e8555185ea2",
@@ -3195,7 +3407,8 @@
       "note": "",
       "location": "HK-TWO ES 8/F",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:19:51.251970+00:00"
     },
     {
       "id": "6fe05f8bdf29af0e527a2312",
@@ -3210,7 +3423,8 @@
       "note": "",
       "location": "HK-TWO ES 8/F",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:19:51.251970+00:00"
     },
     {
       "id": "d335951518b9c4528e446756",
@@ -3225,7 +3439,8 @@
       "note": "",
       "location": "HK Central Hong",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "5f9755a42afb6ac86097fe99",
@@ -3240,7 +3455,8 @@
       "note": "2027 届项目，需核对毕业时间与入职要求。",
       "location": "{\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressLocality\": \"Hong Kong SAR\", \"addressRegion\": null, \"addressCountry\": null, \"postalCode\": null}}",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "464eb6e9c537a8612a85b33a",
@@ -3255,7 +3471,8 @@
       "note": "",
       "location": "Hong Kong Hong Kong",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:19:51.251970+00:00"
     },
     {
       "id": "4cc767c2ceafdc0af406ac5d",
@@ -3270,7 +3487,8 @@
       "note": "",
       "location": "Hong Kong Hong Kong",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:19:51.251970+00:00"
     },
     {
       "id": "7c33b485ca1cac9ac00eda2d",
@@ -3285,7 +3503,8 @@
       "note": "",
       "location": "Kowloon Hong Kong",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "abad6cdc29b2e774609d9130",
@@ -3300,7 +3519,8 @@
       "note": "",
       "location": "Hong Kong Hong Kong",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "5da1642fe5d9f43691bdb9fd",
@@ -3315,7 +3535,8 @@
       "note": "",
       "location": "Hong Kong Hong Kong",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-02T16:19:51.251970+00:00"
     },
     {
       "id": "ac56310e67d491d17dd13dfa",
@@ -3330,7 +3551,8 @@
       "note": "",
       "location": "Hong Kong Hong Kong",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e28e2daad97865e122b485c6",
@@ -3345,7 +3567,8 @@
       "note": "",
       "location": "[{\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressLocality\": \"Hong Kong\", \"addressRegion\": \"\", \"addressCountry\": \"Hong Kong\", \"streetAddress\": \"\", \"postalCode\": \"\"}}]",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "df3b88e4b890f221a6b81eb3",
@@ -3353,14 +3576,15 @@
       "title": "Services - Summer Analyst, Hong Kong, 2027",
       "category": "summer",
       "origin": "employer",
-      "posted": "2026-07-23",
+      "posted": "2026-09-25",
       "deadline": null,
       "url": "https://jobs.citi.com/job/hong-kong/services-summer-analyst-hong-kong-2027/287/98171092416",
       "source": "雇主官网",
       "note": "",
       "location": "[{\"@type\": \"Place\", \"address\": {\"@type\": \"PostalAddress\", \"addressLocality\": \"Hong Kong\", \"addressRegion\": \"\", \"addressCountry\": \"Hong Kong\", \"streetAddress\": \"\", \"postalCode\": \"\"}}]",
       "first_seen": "2026-10-02T16:19:51.251970+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "b4f5865bddba8947884743dc",
@@ -3375,7 +3599,232 @@
       "note": "发现线索，申请前请核对原始岗位页。",
       "location": "HK",
       "first_seen": "2026-10-02T16:11:10.457072+00:00",
-      "state": "active"
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
+    },
+    {
+      "id": "e0da7ebcfe5dd61be0be4cd3",
+      "company": "Freshfields Bruckhaus Deringer",
+      "title": "Hong Kong Summer Internship Programme (2027)",
+      "category": "summer",
+      "origin": "external",
+      "posted": null,
+      "deadline": null,
+      "url": "https://workopia.io/jobs/43ccc0529961755dc9860f67e8ed97bf",
+      "source": "Workopia",
+      "note": "发现线索，申请前请核对原始岗位页。",
+      "location": "Hong Kong",
+      "first_seen": "2026-10-03T07:45:41.276011+00:00",
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
+    },
+    {
+      "id": "0dbc0632f45467d96ed06eef",
+      "company": "The Church of Jesus Christ of Latter-day Saints",
+      "title": "Facilities Management Internship",
+      "category": "daily",
+      "origin": "external",
+      "posted": "2026-10-03",
+      "deadline": null,
+      "url": "https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/378420",
+      "source": "JobSpy · indeed",
+      "note": "发现线索，申请前请核对原始岗位页。",
+      "location": "HK",
+      "first_seen": "2026-10-03T07:45:41.276011+00:00",
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
+    },
+    {
+      "id": "3e41cf6c529a412e1de6301b",
+      "company": "The Church of Jesus Christ of Latter-day Saints",
+      "title": "Temple Construction and Facilities Management Internship",
+      "category": "daily",
+      "origin": "external",
+      "posted": "2026-10-03",
+      "deadline": null,
+      "url": "https://epej.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/requisitions/preview/378419",
+      "source": "JobSpy · indeed",
+      "note": "发现线索，申请前请核对原始岗位页。",
+      "location": "KOW, HK",
+      "first_seen": "2026-10-03T07:45:41.276011+00:00",
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
+    },
+    {
+      "id": "09ce05e14d8145ed510fc39b",
+      "company": "Société Générale",
+      "title": "TRAINEE: Internal and Digital Communication",
+      "category": "daily",
+      "origin": "external",
+      "posted": "2026-10-02",
+      "deadline": null,
+      "url": "https://careers.societegenerale.com/en/job-offers/trainee-internal-and-digital-communication-26000L64-en",
+      "source": "JobSpy · indeed",
+      "note": "发现线索，申请前请核对原始岗位页。",
+      "location": "HK",
+      "first_seen": "2026-10-03T07:45:41.276011+00:00",
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
+    },
+    {
+      "id": "c92d868a77e2febe96111e1c",
+      "company": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+      "title": "Facilities Management Internship",
+      "category": "daily",
+      "origin": "external",
+      "posted": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475081567",
+      "source": "JobSpy · linkedin",
+      "note": "发现线索，申请前请核对原始岗位页。",
+      "location": "Hong Kong, Hong Kong SAR",
+      "first_seen": "2026-10-03T07:45:41.276011+00:00",
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
+    },
+    {
+      "id": "24f5366240b0043debbff266",
+      "company": "A Igreja de Jesus Cristo dos Santos dos Últimos Dias",
+      "title": "Temple Construction and Facilities Management Internship",
+      "category": "daily",
+      "origin": "external",
+      "posted": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475079645",
+      "source": "JobSpy · linkedin",
+      "note": "发现线索，申请前请核对原始岗位页。",
+      "location": "Kowloon City District, Hong Kong SAR",
+      "first_seen": "2026-10-03T07:45:41.276011+00:00",
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
+    },
+    {
+      "id": "3206cd92d90678089db5e65f",
+      "company": "Hang Seng Bank 恒生银行",
+      "title": "Student Internship Programme 1H2027 - Hang Seng Indexes Company Limited - Hang Seng Bank (HK)",
+      "category": "daily",
+      "origin": "external",
+      "posted": "2026-09-29",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4455183865",
+      "source": "JobSpy · linkedin",
+      "note": "发现线索，申请前请核对原始岗位页。",
+      "location": "Kowloon, Hong Kong SAR",
+      "first_seen": "2026-10-03T07:45:41.276011+00:00",
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
+    },
+    {
+      "id": "cf453992874bec2fc8fe8e56",
+      "company": "Manulife",
+      "title": "Co-op Internship 2027: Business Intelligence (6 months)",
+      "category": "daily",
+      "origin": "external",
+      "posted": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4473365276",
+      "source": "JobSpy · linkedin",
+      "note": "发现线索，申请前请核对原始岗位页。",
+      "location": "Hong Kong, Hong Kong SAR",
+      "first_seen": "2026-10-03T07:45:41.276011+00:00",
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
+    },
+    {
+      "id": "5b7c9e1a768caeac4a497a23",
+      "company": "Aon",
+      "title": "Aon Internship Programme 2024, Hong Kong – Health Solutions (VBA required)",
+      "category": "daily",
+      "origin": "external",
+      "posted": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475064036",
+      "source": "JobSpy · linkedin",
+      "note": "发现线索，申请前请核对原始岗位页。",
+      "location": "Hong Kong, Hong Kong SAR",
+      "first_seen": "2026-10-03T07:45:41.276011+00:00",
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
+    },
+    {
+      "id": "15d68c4968a0d6f607eed3ae",
+      "company": "Aon",
+      "title": "Aon Internship Programme 2024, Hong Kong – Reinsurance",
+      "category": "daily",
+      "origin": "external",
+      "posted": null,
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4475056372",
+      "source": "JobSpy · linkedin",
+      "note": "发现线索，申请前请核对原始岗位页。",
+      "location": "Hong Kong, Hong Kong SAR",
+      "first_seen": "2026-10-03T07:45:41.276011+00:00",
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
+    },
+    {
+      "id": "b2e96848ea9612238c4b0e92",
+      "company": "Business Class Group",
+      "title": "Internship",
+      "category": "daily",
+      "origin": "external",
+      "posted": "2026-09-29",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4473047632",
+      "source": "JobSpy · linkedin",
+      "note": "发现线索，申请前请核对原始岗位页。",
+      "location": "Wan Chai District, Hong Kong SAR",
+      "first_seen": "2026-10-03T07:45:41.276011+00:00",
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
+    },
+    {
+      "id": "1d61cebfaf0dacdb6862648f",
+      "company": "Hiwin Financial Consultant Company",
+      "title": "2026Wealth Management Intern",
+      "category": "daily",
+      "origin": "external",
+      "posted": "2026-09-30",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4473729860",
+      "source": "JobSpy · linkedin",
+      "note": "发现线索，申请前请核对原始岗位页。",
+      "location": "Hong Kong, Hong Kong SAR",
+      "first_seen": "2026-10-03T07:45:41.276011+00:00",
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
+    },
+    {
+      "id": "0c46a1e8324178b3baab45f2",
+      "company": "Manulife",
+      "title": "Actuarial Internship Program 2027 (6.5 months)",
+      "category": "daily",
+      "origin": "external",
+      "posted": "2026-09-23",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4460612432",
+      "source": "JobSpy · linkedin",
+      "note": "发现线索，申请前请核对原始岗位页。",
+      "location": "Hong Kong, Hong Kong SAR",
+      "first_seen": "2026-10-03T07:45:41.276011+00:00",
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
+    },
+    {
+      "id": "b729e663ac9a7e8af691636b",
+      "company": "FGS Global",
+      "title": "Finance Graduate Associate",
+      "category": "graduate",
+      "origin": "external",
+      "posted": "2026-10-01",
+      "deadline": null,
+      "url": "https://www.linkedin.com/jobs/view/4446476719",
+      "source": "JobSpy · linkedin",
+      "note": "发现线索，申请前请核对原始岗位页。",
+      "location": "Central & Western District, Hong Kong SAR",
+      "first_seen": "2026-10-03T07:45:41.276011+00:00",
+      "state": "active",
+      "last_seen": "2026-10-03T07:45:41.276011+00:00"
     }
   ],
   "sources": [
@@ -3386,7 +3835,7 @@
       "status": "partial",
       "message": "已检查 6 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e002",
@@ -3395,7 +3844,7 @@
       "status": "partial",
       "message": "已检查 3 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e003",
@@ -3404,7 +3853,7 @@
       "status": "partial",
       "message": "已检查 2 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e004",
@@ -3413,7 +3862,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e005",
@@ -3422,7 +3871,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e006",
@@ -3431,7 +3880,7 @@
       "status": "error",
       "message": "404 Client Error: Not Found for url: https://www.hkaircargo.com/careers/",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e007",
@@ -3440,7 +3889,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e008",
@@ -3449,7 +3898,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e009",
@@ -3458,25 +3907,25 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e010",
       "name": "SF Express 顺丰速运",
       "url": "https://hr.sf-express.com/",
       "status": "error",
-      "message": "('Connection aborted.', RemoteDisconnected('Remote end closed connection without response'))",
+      "message": "HTTPConnectionPool(host='hr.sf-express.com', port=80): Max retries exceeded with url: /index.jsp (Caused by ConnectTimeoutError(<HTTPConnection(host='hr.sf-express.com', port=80) at 0x7f5510406d20>, 'Connection to hr.sf-",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e011",
       "name": "Kerry Logistics 嘉里物流",
       "url": "https://www.kerrylogistics.com/en/careers/",
       "status": "error",
-      "message": "HTTPSConnectionPool(host='www.kerrylogistics.com', port=443): Max retries exceeded with url: /en/careers/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ss",
+      "message": "HTTPSConnectionPool(host='www.kerrylogistics.com', port=443): Max retries exceeded with url: /en/careers/ (Caused by NameResolutionError(\"HTTPSConnection(host='www.kerrylogistics.com', port=443): Failed to resolve 'www.k",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e012",
@@ -3485,7 +3934,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e013",
@@ -3494,7 +3943,7 @@
       "status": "partial",
       "message": "已检查 2 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e014",
@@ -3503,7 +3952,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e015",
@@ -3512,7 +3961,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e016",
@@ -3521,7 +3970,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e017",
@@ -3530,7 +3979,7 @@
       "status": "error",
       "message": "403 Client Error: Forbidden for url: https://www.cevalogistics.com/en/careers",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e018",
@@ -3539,25 +3988,25 @@
       "status": "error",
       "message": "robots.txt 不允许自动读取",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e019",
       "name": "COSCO SHIPPING 中远海运",
       "url": "https://career.coscoshipping.com/",
       "status": "error",
-      "message": "HTTPSConnectionPool(host='career.coscoshipping.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)",
+      "message": "HTTPSConnectionPool(host='career.coscoshipping.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='career.coscoshipping.com', port=443): Failed to resolve 'career.cosco",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e020",
       "name": "Hapag-Lloyd",
       "url": "https://www.hapag-lloyd.com/en/company/career.html",
-      "status": "error",
-      "message": "403 Client Error: Forbidden for url: https://www.hapag-lloyd.com/en/company/career.html",
+      "status": "partial",
+      "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e021",
@@ -3566,7 +4015,7 @@
       "status": "partial",
       "message": "已检查 4 个页面，找到 2 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 2,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e022",
@@ -3575,7 +4024,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e023",
@@ -3584,7 +4033,7 @@
       "status": "error",
       "message": "404 Client Error: Not Found for url: https://www.sinotrans.com/col/col3987/index.html",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e024",
@@ -3593,7 +4042,7 @@
       "status": "error",
       "message": "HTTPSConnectionPool(host='www.cmport.com.hk', port=443): Max retries exceeded with url: /en/Global/Careers.aspx (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed:",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e025",
@@ -3602,34 +4051,34 @@
       "status": "error",
       "message": "404 Client Error: Not Found for url: https://hutchisonports.com/careers/",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e026",
       "name": "A.S. Watson Group 屈臣氏集团",
       "url": "https://www.aswatson.com/careers/",
       "status": "error",
-      "message": "403 Client Error: Forbidden for url: https://www.aswatson.com/careers/",
+      "message": "robots.txt 不允许自动读取",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e027",
       "name": "DFI Retail Group",
       "url": "https://careers.dfiretailgroup.com/",
       "status": "error",
-      "message": "HTTPSConnectionPool(host='careers.dfiretailgroup.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:101",
+      "message": "HTTPSConnectionPool(host='careers.dfiretailgroup.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='careers.dfiretailgroup.com', port=443): Failed to resolve 'careers.",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e028",
       "name": "Jardine Matheson 怡和集团",
       "url": "https://www.jardines.com/en/careers",
-      "status": "partial",
-      "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
+      "status": "error",
+      "message": "robots.txt 不允许自动读取",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e029",
@@ -3638,7 +4087,7 @@
       "status": "partial",
       "message": "已检查 4 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e030",
@@ -3647,16 +4096,16 @@
       "status": "error",
       "message": "404 Client Error: Not Found for url: https://www.swirecocacola.com/en/careers/",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e031",
       "name": "Li & Fung 利丰",
       "url": "https://www.lifung.com/careers/",
       "status": "partial",
-      "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
+      "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。 部分页面未能访问。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e032",
@@ -3665,16 +4114,16 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e033",
       "name": "JD.com / JD Logistics 京东 / 京东物流",
       "url": "https://campus.jd.com/",
-      "status": "error",
-      "message": "HTTPSConnectionPool(host='campus.jd.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
+      "status": "partial",
+      "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e034",
@@ -3683,7 +4132,7 @@
       "status": "partial",
       "message": "已检查 3 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e035",
@@ -3692,7 +4141,7 @@
       "status": "error",
       "message": "404 Client Error:  for url: https://www.hktv.com.hk/career/",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e036",
@@ -3701,16 +4150,16 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e037",
       "name": "Decathlon",
       "url": "https://joinus.decathlon.hk/",
       "status": "error",
-      "message": "HTTPSConnectionPool(host='joinus.decathlon.hk', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
+      "message": "HTTPSConnectionPool(host='joinus.decathlon.hk', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='joinus.decathlon.hk', port=443): Failed to resolve 'joinus.decathlon.hk' (",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e038",
@@ -3719,7 +4168,7 @@
       "status": "partial",
       "message": "已检查 2 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e039",
@@ -3728,16 +4177,16 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e040",
       "name": "VF Corporation",
       "url": "https://www.vfc.com/careers",
       "status": "partial",
-      "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
+      "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。 部分页面未能访问。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e041",
@@ -3746,16 +4195,16 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e042",
       "name": "Target Sourcing Services",
       "url": "https://corporate.target.com/careers",
       "status": "partial",
-      "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
+      "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。 部分页面未能访问。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e043",
@@ -3764,16 +4213,16 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e044",
       "name": "Unilever 联合利华",
       "url": "https://careers.unilever.com/",
       "status": "partial",
-      "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
+      "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。 部分页面未能访问。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e045",
@@ -3782,7 +4231,7 @@
       "status": "error",
       "message": "403 Client Error: Forbidden for url: https://www.nestle.com/jobs",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e046",
@@ -3791,16 +4240,16 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e047",
       "name": "L'Oréal 欧莱雅",
       "url": "https://careers.loreal.com/",
-      "status": "partial",
-      "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
+      "status": "error",
+      "message": "403 Client Error: Forbidden for url: https://careers.loreal.com/",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e048",
@@ -3809,7 +4258,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e049",
@@ -3818,7 +4267,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e050",
@@ -3827,16 +4276,16 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e051",
       "name": "Kenvue",
       "url": "https://www.careers.kenvue.com/",
       "status": "error",
-      "message": "HTTPSConnectionPool(host='www.careers.kenvue.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')",
+      "message": "HTTPSConnectionPool(host='www.careers.kenvue.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(\"HTTPSConnection(host='www.careers.kenvue.com', port=443): Failed to resolve 'www.careers.kenv",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e052",
@@ -3845,7 +4294,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e053",
@@ -3854,7 +4303,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e054",
@@ -3863,16 +4312,16 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e055",
       "name": "CLP Power 中电",
       "url": "https://www.clpgroup.com/en/careers/working-at-clp/working-with-us.html",
       "status": "error",
-      "message": "403 Client Error: Forbidden for url: https://www.clpgroup.com/en/careers/working-at-clp/working-with-us.html",
+      "message": "robots.txt 不允许自动读取",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e056",
@@ -3881,7 +4330,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e057",
@@ -3890,7 +4339,7 @@
       "status": "partial",
       "message": "已检查 4 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e058",
@@ -3899,7 +4348,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e059",
@@ -3908,7 +4357,7 @@
       "status": "partial",
       "message": "已检查 2 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e060",
@@ -3917,7 +4366,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e061",
@@ -3926,7 +4375,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e062",
@@ -3935,7 +4384,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e063",
@@ -3944,7 +4393,7 @@
       "status": "error",
       "message": "404 Client Error: Not Found for url: https://www.asmpt.com/en/careers/",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e064",
@@ -3953,7 +4402,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e065",
@@ -3962,7 +4411,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e066",
@@ -3971,7 +4420,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e067",
@@ -3980,16 +4429,16 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e068",
       "name": "Tesla",
       "url": "https://www.tesla.com/careers/search/?site=HK",
       "status": "error",
-      "message": "403 Client Error: Forbidden for url: https://www.tesla.com/careers/search/?site=HK",
+      "message": "robots.txt 不允许自动读取",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e069",
@@ -3998,7 +4447,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e070",
@@ -4007,7 +4456,7 @@
       "status": "error",
       "message": "404 Client Error: Not Found for url: https://www.careers.jnj.com/student-opportunities",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e071",
@@ -4016,7 +4465,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e072",
@@ -4025,7 +4474,7 @@
       "status": "error",
       "message": "robots.txt 不允许自动读取",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e073",
@@ -4034,7 +4483,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e074",
@@ -4043,7 +4492,7 @@
       "status": "error",
       "message": "HTTPSConnectionPool(host='jobs.medtronic.com', port=443): Max retries exceeded with url: / (Caused by SSLError(SSLCertVerificationError(1, \"[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, c",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e075",
@@ -4052,7 +4501,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e076",
@@ -4061,7 +4510,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e077",
@@ -4070,7 +4519,7 @@
       "status": "partial",
       "message": "已检查 12 个页面，找到 4 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 4,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e078",
@@ -4079,7 +4528,7 @@
       "status": "partial",
       "message": "已检查 3 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e079",
@@ -4088,16 +4537,16 @@
       "status": "partial",
       "message": "已检查 3 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e080",
       "name": "Citi 花旗",
       "url": "https://jobs.citi.com/students-graduates",
       "status": "partial",
-      "message": "已检查 5 个页面，找到 10 条；有限范围检查，未覆盖全部招聘列表。",
-      "jobs": 10,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "message": "已检查 3 个页面，找到 2 条；有限范围检查，未覆盖全部招聘列表。 部分页面未能访问。",
+      "jobs": 2,
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e081",
@@ -4106,7 +4555,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。 部分页面未能访问。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e082",
@@ -4115,7 +4564,7 @@
       "status": "partial",
       "message": "已检查 2 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e083",
@@ -4124,7 +4573,7 @@
       "status": "partial",
       "message": "已检查 2 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e084",
@@ -4133,25 +4582,25 @@
       "status": "error",
       "message": "404 Client Error: Not Found for url: https://www.bochk.com/en/aboutus/careers.html",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e085",
       "name": "ICBC (Asia) 工银亚洲",
       "url": "https://www.icbcasia.com/ICBC/EN/Careers/",
       "status": "error",
-      "message": "HTTPSConnectionPool(host='www.icbc.com.cn', port=443): Max retries exceeded with url: /ICBC/EN/Careers/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.",
+      "message": "404 Client Error: Not Found for url: https://www.icbc.com.cn/ICBC/EN/Careers/",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e086",
       "name": "HKEX 香港交易所",
       "url": "https://www.hkexgroup.com/About-HKEX/Careers-at-HKEX/Early-Careers",
       "status": "partial",
-      "message": "已检查 1 个页面，找到 2 条；有限范围检查，未覆盖全部招聘列表。",
-      "jobs": 2,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。 部分页面未能访问。",
+      "jobs": 0,
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e087",
@@ -4160,7 +4609,7 @@
       "status": "error",
       "message": "404 Client Error: Not Found for url: https://www.accenture.com/hk-en/careers/local/students",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e088",
@@ -4169,16 +4618,16 @@
       "status": "error",
       "message": "404 Client Error: Not Found for url: https://www.deloitte.com/cn/en/careers/students.html",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e089",
       "name": "PwC 普华永道",
       "url": "https://www.pwccn.com/en/careers/students.html",
       "status": "error",
-      "message": "403 Client Error: Forbidden for url: https://www.pwccn.com/en/careers/students.html",
+      "message": "robots.txt 不允许自动读取",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e090",
@@ -4187,7 +4636,7 @@
       "status": "error",
       "message": "404 Client Error: Not Found for url: https://www.ey.com/en_cn/careers/students",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e091",
@@ -4196,7 +4645,7 @@
       "status": "partial",
       "message": "已检查 3 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e092",
@@ -4205,7 +4654,7 @@
       "status": "error",
       "message": "HTTPSConnectionPool(host='www.mckinsey.com', port=443): Read timed out. (read timeout=22)",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e093",
@@ -4214,7 +4663,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e094",
@@ -4223,7 +4672,7 @@
       "status": "partial",
       "message": "已检查 1 个页面，找到 0 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e095",
@@ -4232,16 +4681,16 @@
       "status": "error",
       "message": "404 Client Error: Not Found for url: https://www.hkstp.org/en/careers/",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e096",
       "name": "Cyberport 数码港",
       "url": "https://www.cyberport.hk/en/about_cyberport/careers",
       "status": "error",
-      "message": "404 Client Error: Not Found for url: https://www.cyberport.hk/en/about_cyberport/careers",
+      "message": "robots.txt 不允许自动读取",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "e097",
@@ -4250,25 +4699,25 @@
       "status": "partial",
       "message": "已检查 3 个页面，找到 1 条；有限范围检查，未覆盖全部招聘列表。",
       "jobs": 1,
-      "checked_at": "2026-10-02T16:19:51.251970+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:indeed:business analyst intern",
       "name": "JobSpy · indeed",
       "url": "https://github.com/speedyapply/JobSpy",
       "status": "ok",
-      "message": "business analyst intern：读取 6 条，保留 6 条。",
-      "jobs": 6,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "message": "business analyst intern：读取 5 条，保留 5 条。",
+      "jobs": 5,
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:indeed:finance intern",
       "name": "JobSpy · indeed",
       "url": "https://github.com/speedyapply/JobSpy",
       "status": "ok",
-      "message": "finance intern：读取 34 条，保留 33 条。",
-      "jobs": 33,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "message": "finance intern：读取 31 条，保留 30 条。",
+      "jobs": 30,
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:indeed:graduate programme 2028",
@@ -4277,7 +4726,7 @@
       "status": "ok",
       "message": "graduate programme 2028：读取 1 条，保留 1 条。",
       "jobs": 1,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:indeed:logistics intern",
@@ -4286,7 +4735,7 @@
       "status": "ok",
       "message": "logistics intern：读取 9 条，保留 9 条。",
       "jobs": 9,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:indeed:management trainee",
@@ -4295,16 +4744,16 @@
       "status": "ok",
       "message": "management trainee：读取 35 条，保留 29 条。",
       "jobs": 29,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:indeed:operations intern",
       "name": "JobSpy · indeed",
       "url": "https://github.com/speedyapply/JobSpy",
       "status": "ok",
-      "message": "operations intern：读取 26 条，保留 22 条。",
-      "jobs": 22,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "message": "operations intern：读取 28 条，保留 24 条。",
+      "jobs": 24,
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:indeed:procurement intern",
@@ -4313,16 +4762,16 @@
       "status": "empty",
       "message": "procurement intern：读取 0 条，保留 0 条。",
       "jobs": 0,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:indeed:quantitative intern",
       "name": "JobSpy · indeed",
       "url": "https://github.com/speedyapply/JobSpy",
       "status": "ok",
-      "message": "quantitative intern：读取 9 条，保留 7 条。",
-      "jobs": 7,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "message": "quantitative intern：读取 8 条，保留 6 条。",
+      "jobs": 6,
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:indeed:summer internship 2027",
@@ -4331,7 +4780,7 @@
       "status": "ok",
       "message": "summer internship 2027：读取 5 条，保留 5 条。",
       "jobs": 5,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:indeed:supply chain intern",
@@ -4340,34 +4789,34 @@
       "status": "ok",
       "message": "supply chain intern：读取 8 条，保留 5 条。",
       "jobs": 5,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:linkedin:business analyst intern",
       "name": "JobSpy · linkedin",
       "url": "https://github.com/speedyapply/JobSpy",
       "status": "ok",
-      "message": "business analyst intern：读取 50 条，保留 26 条。",
-      "jobs": 26,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "message": "business analyst intern：读取 50 条，保留 28 条。",
+      "jobs": 28,
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:linkedin:finance intern",
       "name": "JobSpy · linkedin",
       "url": "https://github.com/speedyapply/JobSpy",
       "status": "ok",
-      "message": "finance intern：读取 50 条，保留 26 条。",
-      "jobs": 26,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "message": "finance intern：读取 50 条，保留 30 条。",
+      "jobs": 30,
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:linkedin:graduate programme 2028",
       "name": "JobSpy · linkedin",
       "url": "https://github.com/speedyapply/JobSpy",
       "status": "ok",
-      "message": "graduate programme 2028：读取 50 条，保留 18 条。",
-      "jobs": 18,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "message": "graduate programme 2028：读取 50 条，保留 16 条。",
+      "jobs": 16,
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:linkedin:logistics intern",
@@ -4376,43 +4825,43 @@
       "status": "ok",
       "message": "logistics intern：读取 20 条，保留 6 条。",
       "jobs": 6,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:linkedin:management trainee",
       "name": "JobSpy · linkedin",
       "url": "https://github.com/speedyapply/JobSpy",
       "status": "ok",
-      "message": "management trainee：读取 50 条，保留 22 条。",
-      "jobs": 22,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "message": "management trainee：读取 50 条，保留 20 条。",
+      "jobs": 20,
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:linkedin:operations intern",
       "name": "JobSpy · linkedin",
       "url": "https://github.com/speedyapply/JobSpy",
       "status": "ok",
-      "message": "operations intern：读取 50 条，保留 20 条。",
-      "jobs": 20,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "message": "operations intern：读取 49 条，保留 24 条。",
+      "jobs": 24,
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:linkedin:procurement intern",
       "name": "JobSpy · linkedin",
       "url": "https://github.com/speedyapply/JobSpy",
       "status": "ok",
-      "message": "procurement intern：读取 20 条，保留 6 条。",
-      "jobs": 6,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "message": "procurement intern：读取 20 条，保留 7 条。",
+      "jobs": 7,
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:linkedin:quantitative intern",
       "name": "JobSpy · linkedin",
       "url": "https://github.com/speedyapply/JobSpy",
       "status": "ok",
-      "message": "quantitative intern：读取 50 条，保留 28 条。",
-      "jobs": 28,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "message": "quantitative intern：读取 50 条，保留 29 条。",
+      "jobs": 29,
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:linkedin:summer internship 2027",
@@ -4421,25 +4870,25 @@
       "status": "ok",
       "message": "summer internship 2027：读取 50 条，保留 27 条。",
       "jobs": 27,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "jobspy:linkedin:supply chain intern",
       "name": "JobSpy · linkedin",
       "url": "https://github.com/speedyapply/JobSpy",
       "status": "ok",
-      "message": "supply chain intern：读取 20 条，保留 10 条。",
-      "jobs": 10,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "message": "supply chain intern：读取 20 条，保留 9 条。",
+      "jobs": 9,
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     },
     {
       "id": "workopia",
       "name": "Workopia 香港清单",
       "url": "https://raw.githubusercontent.com/workopia/Hong-Kong-Graduate-Internship-Jobs/main/README.md",
       "status": "ok",
-      "message": "读取 166 条，筛选保留 50 条；未用相对年龄推算发布日期。",
-      "jobs": 50,
-      "checked_at": "2026-10-02T16:11:10.457072+00:00"
+      "message": "读取 172 条，筛选保留 51 条；未用相对年龄推算发布日期。",
+      "jobs": 51,
+      "checked_at": "2026-10-03T07:45:41.276011+00:00"
     }
   ]
 }
