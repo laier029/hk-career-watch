@@ -1,0 +1,1172 @@
+{
+  "version": 1,
+  "timezone": "Asia/Hong_Kong",
+  "summer_year": 2027,
+  "graduate_year": 2028,
+  "source_note": "97 Hong Kong employer career sources; fixed early-career business-role filters.",
+  "employers": [
+    {
+      "id": "e001",
+      "name": "Cathay Pacific 国泰航空",
+      "industry": "航空与货运",
+      "url": "https://careers.cathaypacific.com/",
+      "priority": "A",
+      "aliases": [
+        "Cathay Pacific",
+        "Cathay"
+      ]
+    },
+    {
+      "id": "e002",
+      "name": "Airport Authority Hong Kong 香港机场管理局",
+      "industry": "机场与基建",
+      "url": "https://careers.hkairport.com/",
+      "priority": "A",
+      "aliases": [
+        "Airport Authority Hong Kong"
+      ]
+    },
+    {
+      "id": "e003",
+      "name": "MTR Corporation 港铁公司",
+      "industry": "交通与基建",
+      "url": "https://www.mtr.com.hk/en/corporate/careers/internship.html",
+      "priority": "A",
+      "aliases": [
+        "MTR",
+        "MTR Corporation"
+      ]
+    },
+    {
+      "id": "e004",
+      "name": "HAECO 香港飞机工程",
+      "industry": "航空工程",
+      "url": "https://www.haeco.com/en/careers/",
+      "priority": "A",
+      "aliases": [
+        "HAECO"
+      ]
+    },
+    {
+      "id": "e005",
+      "name": "HK Express 香港快运",
+      "industry": "航空运输",
+      "url": "https://careers.hkexpress.com/",
+      "priority": "B",
+      "aliases": [
+        "HK Express"
+      ]
+    },
+    {
+      "id": "e006",
+      "name": "Hong Kong Air Cargo 香港货运航空",
+      "industry": "航空货运",
+      "url": "https://www.hkaircargo.com/careers/",
+      "priority": "B",
+      "aliases": [
+        "Hong Kong Air Cargo"
+      ]
+    },
+    {
+      "id": "e007",
+      "name": "DHL Group",
+      "industry": "综合物流",
+      "url": "https://careers.dhl.com/apac/en",
+      "priority": "A",
+      "aliases": [
+        "DHL Group"
+      ]
+    },
+    {
+      "id": "e008",
+      "name": "FedEx",
+      "industry": "快递与物流",
+      "url": "https://careers.fedex.com/",
+      "priority": "A",
+      "aliases": [
+        "FedEx"
+      ]
+    },
+    {
+      "id": "e009",
+      "name": "UPS",
+      "industry": "快递与物流",
+      "url": "https://www.jobs-ups.com/",
+      "priority": "B",
+      "aliases": [
+        "UPS"
+      ]
+    },
+    {
+      "id": "e010",
+      "name": "SF Express 顺丰速运",
+      "industry": "快递与物流",
+      "url": "https://hr.sf-express.com/",
+      "priority": "A",
+      "aliases": [
+        "SF Express"
+      ]
+    },
+    {
+      "id": "e011",
+      "name": "Kerry Logistics 嘉里物流",
+      "industry": "综合物流",
+      "url": "https://www.kerrylogistics.com/en/careers/",
+      "priority": "A",
+      "aliases": [
+        "Kerry Logistics",
+        "KLN Logistics"
+      ]
+    },
+    {
+      "id": "e012",
+      "name": "Cainiao 菜鸟",
+      "industry": "数字物流",
+      "url": "https://talent.alibaba.com/",
+      "priority": "A",
+      "aliases": [
+        "Cainiao 菜鸟"
+      ]
+    },
+    {
+      "id": "e013",
+      "name": "Maersk",
+      "industry": "航运与综合物流",
+      "url": "https://www.maersk.com/careers",
+      "priority": "A",
+      "aliases": [
+        "Maersk"
+      ]
+    },
+    {
+      "id": "e014",
+      "name": "Kuehne+Nagel",
+      "industry": "货代与合同物流",
+      "url": "https://jobs.kuehne-nagel.com/",
+      "priority": "A",
+      "aliases": [
+        "Kuehne+Nagel"
+      ]
+    },
+    {
+      "id": "e015",
+      "name": "DSV",
+      "industry": "货代与物流",
+      "url": "https://www.dsv.com/en/careers/job-openings",
+      "priority": "A",
+      "aliases": [
+        "DSV"
+      ]
+    },
+    {
+      "id": "e016",
+      "name": "DB Schenker",
+      "industry": "货代与物流",
+      "url": "https://www.dbschenker.com/global/careers",
+      "priority": "A",
+      "aliases": [
+        "DB Schenker"
+      ]
+    },
+    {
+      "id": "e017",
+      "name": "CEVA Logistics",
+      "industry": "合同物流",
+      "url": "https://www.cevalogistics.com/en/careers",
+      "priority": "A",
+      "aliases": [
+        "CEVA Logistics"
+      ]
+    },
+    {
+      "id": "e018",
+      "name": "OOCL 东方海外",
+      "industry": "航运",
+      "url": "https://www.oocl.com/eng/aboutoocl/careers/Pages/default.aspx",
+      "priority": "A",
+      "aliases": [
+        "OOCL 东方海外"
+      ]
+    },
+    {
+      "id": "e019",
+      "name": "COSCO SHIPPING 中远海运",
+      "industry": "航运与港口",
+      "url": "https://career.coscoshipping.com/",
+      "priority": "A",
+      "aliases": [
+        "COSCO SHIPPING"
+      ]
+    },
+    {
+      "id": "e020",
+      "name": "Hapag-Lloyd",
+      "industry": "航运",
+      "url": "https://www.hapag-lloyd.com/en/company/career.html",
+      "priority": "B",
+      "aliases": [
+        "Hapag-Lloyd"
+      ]
+    },
+    {
+      "id": "e021",
+      "name": "Lalamove",
+      "industry": "即时物流科技",
+      "url": "https://jobs.lever.co/lalamove",
+      "priority": "A",
+      "aliases": [
+        "Lalamove"
+      ]
+    },
+    {
+      "id": "e022",
+      "name": "GoGoX",
+      "industry": "即时物流科技",
+      "url": "https://www.gogox.com/careers/",
+      "priority": "B",
+      "aliases": [
+        "GoGoX"
+      ]
+    },
+    {
+      "id": "e023",
+      "name": "Sinotrans 中国外运",
+      "industry": "综合物流",
+      "url": "https://www.sinotrans.com/col/col3987/index.html",
+      "priority": "A",
+      "aliases": [
+        "Sinotrans"
+      ]
+    },
+    {
+      "id": "e024",
+      "name": "China Merchants Port 招商局港口",
+      "industry": "港口与基建",
+      "url": "https://www.cmport.com.hk/en/Global/Careers.aspx",
+      "priority": "A",
+      "aliases": [
+        "China Merchants Port 招商局港口"
+      ]
+    },
+    {
+      "id": "e025",
+      "name": "Hutchison Ports 和记港口",
+      "industry": "港口运营",
+      "url": "https://hutchisonports.com/careers/",
+      "priority": "A",
+      "aliases": [
+        "Hutchison Ports 和记港口"
+      ]
+    },
+    {
+      "id": "e026",
+      "name": "A.S. Watson Group 屈臣氏集团",
+      "industry": "零售",
+      "url": "https://www.aswatson.com/careers/",
+      "priority": "A",
+      "aliases": [
+        "A.S. Watson",
+        "AS Watson",
+        "AS Watson Group",
+        "Watsons"
+      ]
+    },
+    {
+      "id": "e027",
+      "name": "DFI Retail Group",
+      "industry": "零售",
+      "url": "https://careers.dfiretailgroup.com/",
+      "priority": "A",
+      "aliases": [
+        "DFI Retail Group",
+        "Dairy Farm",
+        "DFI"
+      ]
+    },
+    {
+      "id": "e028",
+      "name": "Jardine Matheson 怡和集团",
+      "industry": "综合企业",
+      "url": "https://www.jardines.com/en/careers",
+      "priority": "A",
+      "aliases": [
+        "Jardine Matheson",
+        "Jardines"
+      ]
+    },
+    {
+      "id": "e029",
+      "name": "Swire Pacific 太古集团",
+      "industry": "综合企业",
+      "url": "https://careers.swire.com/",
+      "priority": "A",
+      "aliases": [
+        "Swire Pacific",
+        "Swire"
+      ]
+    },
+    {
+      "id": "e030",
+      "name": "Swire Coca-Cola 太古可口可乐",
+      "industry": "饮料快消",
+      "url": "https://www.swirecocacola.com/en/careers/",
+      "priority": "A",
+      "aliases": [
+        "Swire Coca-Cola"
+      ]
+    },
+    {
+      "id": "e031",
+      "name": "Li & Fung 利丰",
+      "industry": "供应链管理与采购",
+      "url": "https://www.lifung.com/careers/",
+      "priority": "A",
+      "aliases": [
+        "Li & Fung",
+        "Li and Fung"
+      ]
+    },
+    {
+      "id": "e032",
+      "name": "Alibaba Group 阿里巴巴",
+      "industry": "电商与科技",
+      "url": "https://talent.alibaba.com/",
+      "priority": "A",
+      "aliases": [
+        "Alibaba Group 阿里巴巴"
+      ]
+    },
+    {
+      "id": "e033",
+      "name": "JD.com / JD Logistics 京东 / 京东物流",
+      "industry": "电商与物流",
+      "url": "https://campus.jd.com/",
+      "priority": "A",
+      "aliases": [
+        "JD.com"
+      ]
+    },
+    {
+      "id": "e034",
+      "name": "Amazon",
+      "industry": "电商与云服务",
+      "url": "https://www.amazon.jobs/en/teams/internships-for-students",
+      "priority": "A",
+      "aliases": [
+        "Amazon"
+      ]
+    },
+    {
+      "id": "e035",
+      "name": "HKTVmall",
+      "industry": "电商与零售",
+      "url": "https://www.hktv.com.hk/career/",
+      "priority": "B",
+      "aliases": [
+        "HKTVmall",
+        "HKTV",
+        "Hong Kong Technology Venture"
+      ]
+    },
+    {
+      "id": "e036",
+      "name": "IKEA",
+      "industry": "家居零售",
+      "url": "https://www.ikea.com.hk/en/about/career",
+      "priority": "B",
+      "aliases": [
+        "IKEA"
+      ]
+    },
+    {
+      "id": "e037",
+      "name": "Decathlon",
+      "industry": "体育零售",
+      "url": "https://joinus.decathlon.hk/",
+      "priority": "B",
+      "aliases": [
+        "Decathlon"
+      ]
+    },
+    {
+      "id": "e038",
+      "name": "Nike",
+      "industry": "消费品与零售",
+      "url": "https://careers.nike.com/",
+      "priority": "A",
+      "aliases": [
+        "Nike"
+      ]
+    },
+    {
+      "id": "e039",
+      "name": "adidas",
+      "industry": "消费品与零售",
+      "url": "https://careers.adidas-group.com/",
+      "priority": "A",
+      "aliases": [
+        "adidas"
+      ]
+    },
+    {
+      "id": "e040",
+      "name": "VF Corporation",
+      "industry": "服装与零售",
+      "url": "https://www.vfc.com/careers",
+      "priority": "A",
+      "aliases": [
+        "VF Corporation"
+      ]
+    },
+    {
+      "id": "e041",
+      "name": "Walmart Global Sourcing",
+      "industry": "零售采购",
+      "url": "https://careers.walmart.com/",
+      "priority": "A",
+      "aliases": [
+        "Walmart Global Sourcing"
+      ]
+    },
+    {
+      "id": "e042",
+      "name": "Target Sourcing Services",
+      "industry": "零售采购",
+      "url": "https://corporate.target.com/careers",
+      "priority": "B",
+      "aliases": [
+        "Target Sourcing Services"
+      ]
+    },
+    {
+      "id": "e043",
+      "name": "P&G 宝洁",
+      "industry": "快消",
+      "url": "https://www.pgcareers.com/global/en/greater-china-hong-kong-sar",
+      "priority": "A",
+      "aliases": [
+        "P&G",
+        "Procter & Gamble",
+        "Procter and Gamble"
+      ]
+    },
+    {
+      "id": "e044",
+      "name": "Unilever 联合利华",
+      "industry": "快消",
+      "url": "https://careers.unilever.com/",
+      "priority": "A",
+      "aliases": [
+        "Unilever"
+      ]
+    },
+    {
+      "id": "e045",
+      "name": "Nestlé 雀巢",
+      "industry": "食品快消",
+      "url": "https://www.nestle.com/jobs",
+      "priority": "A",
+      "aliases": [
+        "Nestle",
+        "Nestlé"
+      ]
+    },
+    {
+      "id": "e046",
+      "name": "Mondelez 亿滋",
+      "industry": "食品快消",
+      "url": "https://www.mondelezinternational.com/careers/",
+      "priority": "B",
+      "aliases": [
+        "Mondelez 亿滋"
+      ]
+    },
+    {
+      "id": "e047",
+      "name": "L'Oréal 欧莱雅",
+      "industry": "美妆快消",
+      "url": "https://careers.loreal.com/",
+      "priority": "A",
+      "aliases": [
+        "L'Oreal",
+        "L’Oréal",
+        "L'Oréal",
+        "Loreal"
+      ]
+    },
+    {
+      "id": "e048",
+      "name": "Estée Lauder Companies 雅诗兰黛",
+      "industry": "美妆快消",
+      "url": "https://www.elcompanies.com/en/careers",
+      "priority": "A",
+      "aliases": [
+        "The Estee Lauder Companies",
+        "Estee Lauder Companies",
+        "Estée Lauder"
+      ]
+    },
+    {
+      "id": "e049",
+      "name": "Mars",
+      "industry": "食品与宠物护理",
+      "url": "https://careers.mars.com/",
+      "priority": "B",
+      "aliases": [
+        "Mars"
+      ]
+    },
+    {
+      "id": "e050",
+      "name": "Reckitt",
+      "industry": "健康与家居快消",
+      "url": "https://www.reckitt.com/careers/",
+      "priority": "B",
+      "aliases": [
+        "Reckitt"
+      ]
+    },
+    {
+      "id": "e051",
+      "name": "Kenvue",
+      "industry": "消费健康",
+      "url": "https://www.careers.kenvue.com/",
+      "priority": "B",
+      "aliases": [
+        "Kenvue"
+      ]
+    },
+    {
+      "id": "e052",
+      "name": "Colgate-Palmolive",
+      "industry": "消费品",
+      "url": "https://jobs.colgate.com/",
+      "priority": "B",
+      "aliases": [
+        "Colgate-Palmolive"
+      ]
+    },
+    {
+      "id": "e053",
+      "name": "PepsiCo",
+      "industry": "食品饮料",
+      "url": "https://www.pepsicojobs.com/",
+      "priority": "B",
+      "aliases": [
+        "PepsiCo"
+      ]
+    },
+    {
+      "id": "e054",
+      "name": "China Resources Group 华润集团",
+      "industry": "综合企业与零售",
+      "url": "https://www.crc.com.hk/career/",
+      "priority": "A",
+      "aliases": [
+        "China Resources Group"
+      ]
+    },
+    {
+      "id": "e055",
+      "name": "CLP Power 中电",
+      "industry": "能源与公用事业",
+      "url": "https://www.clpgroup.com/en/careers/working-at-clp/working-with-us.html",
+      "priority": "A",
+      "aliases": [
+        "CLP",
+        "CLP Power",
+        "CLP Group"
+      ]
+    },
+    {
+      "id": "e056",
+      "name": "HK Electric 港灯",
+      "industry": "能源与公用事业",
+      "url": "https://www.hkelectric.com/en/careers",
+      "priority": "B",
+      "aliases": [
+        "HK Electric"
+      ]
+    },
+    {
+      "id": "e057",
+      "name": "Towngas 香港中华煤气",
+      "industry": "能源与公用事业",
+      "url": "https://www.towngas.com/en/Careers",
+      "priority": "B",
+      "aliases": [
+        "Towngas"
+      ]
+    },
+    {
+      "id": "e058",
+      "name": "Schneider Electric 施耐德电气",
+      "industry": "工业与能源管理",
+      "url": "https://www.se.com/ww/en/about-us/careers/",
+      "priority": "A",
+      "aliases": [
+        "Schneider Electric 施耐德电气"
+      ]
+    },
+    {
+      "id": "e059",
+      "name": "Siemens 西门子",
+      "industry": "工业与基建",
+      "url": "https://www.siemens.com/global/en/company/jobs.html",
+      "priority": "A",
+      "aliases": [
+        "Siemens 西门子"
+      ]
+    },
+    {
+      "id": "e060",
+      "name": "Bosch 博世",
+      "industry": "工业与消费科技",
+      "url": "https://www.bosch.com/careers/",
+      "priority": "B",
+      "aliases": [
+        "Bosch 博世"
+      ]
+    },
+    {
+      "id": "e061",
+      "name": "Hilti 喜利得",
+      "industry": "建筑科技",
+      "url": "https://careers.hilti.group/",
+      "priority": "A",
+      "aliases": [
+        "Hilti 喜利得"
+      ]
+    },
+    {
+      "id": "e062",
+      "name": "Johnson Electric 德昌电机",
+      "industry": "制造业",
+      "url": "https://www.johnsonelectric.com/en/careers",
+      "priority": "A",
+      "aliases": [
+        "Johnson Electric 德昌电机"
+      ]
+    },
+    {
+      "id": "e063",
+      "name": "ASMPT",
+      "industry": "半导体设备",
+      "url": "https://www.asmpt.com/en/careers/",
+      "priority": "A",
+      "aliases": [
+        "ASMPT"
+      ]
+    },
+    {
+      "id": "e064",
+      "name": "Lenovo 联想",
+      "industry": "科技与硬件",
+      "url": "https://jobs.lenovo.com/",
+      "priority": "A",
+      "aliases": [
+        "Lenovo"
+      ]
+    },
+    {
+      "id": "e065",
+      "name": "Huawei 华为",
+      "industry": "科技与通信",
+      "url": "https://career.huawei.com/",
+      "priority": "A",
+      "aliases": [
+        "Huawei"
+      ]
+    },
+    {
+      "id": "e066",
+      "name": "China Mobile International 中国移动国际",
+      "industry": "通信",
+      "url": "https://www.cmi.chinamobile.com/en/career/",
+      "priority": "B",
+      "aliases": [
+        "China Mobile International"
+      ]
+    },
+    {
+      "id": "e067",
+      "name": "Apple",
+      "industry": "科技与消费电子",
+      "url": "https://jobs.apple.com/en-hk/search",
+      "priority": "A",
+      "aliases": [
+        "Apple"
+      ]
+    },
+    {
+      "id": "e068",
+      "name": "Tesla",
+      "industry": "汽车与能源",
+      "url": "https://www.tesla.com/careers/search/?site=HK",
+      "priority": "B",
+      "aliases": [
+        "Tesla"
+      ]
+    },
+    {
+      "id": "e069",
+      "name": "Philips",
+      "industry": "医疗与消费科技",
+      "url": "https://www.careers.philips.com/student/",
+      "priority": "B",
+      "aliases": [
+        "Philips"
+      ]
+    },
+    {
+      "id": "e070",
+      "name": "Johnson & Johnson",
+      "industry": "医疗健康",
+      "url": "https://www.careers.jnj.com/student-opportunities",
+      "priority": "A",
+      "aliases": [
+        "Johnson & Johnson"
+      ]
+    },
+    {
+      "id": "e071",
+      "name": "Roche 罗氏",
+      "industry": "医药",
+      "url": "https://careers.roche.com/",
+      "priority": "B",
+      "aliases": [
+        "Roche 罗氏"
+      ]
+    },
+    {
+      "id": "e072",
+      "name": "Pfizer 辉瑞",
+      "industry": "医药",
+      "url": "https://www.pfizer.com/about/careers",
+      "priority": "B",
+      "aliases": [
+        "Pfizer 辉瑞"
+      ]
+    },
+    {
+      "id": "e073",
+      "name": "AstraZeneca 阿斯利康",
+      "industry": "医药",
+      "url": "https://careers.astrazeneca.com/",
+      "priority": "B",
+      "aliases": [
+        "AstraZeneca 阿斯利康"
+      ]
+    },
+    {
+      "id": "e074",
+      "name": "Medtronic 美敦力",
+      "industry": "医疗器械",
+      "url": "https://jobs.medtronic.com/",
+      "priority": "B",
+      "aliases": [
+        "Medtronic 美敦力"
+      ]
+    },
+    {
+      "id": "e075",
+      "name": "Stryker",
+      "industry": "医疗器械",
+      "url": "https://careers.stryker.com/",
+      "priority": "B",
+      "aliases": [
+        "Stryker"
+      ]
+    },
+    {
+      "id": "e076",
+      "name": "Thermo Fisher Scientific",
+      "industry": "生命科学",
+      "url": "https://jobs.thermofisher.com/",
+      "priority": "B",
+      "aliases": [
+        "Thermo Fisher Scientific"
+      ]
+    },
+    {
+      "id": "e077",
+      "name": "HSBC 汇丰",
+      "industry": "银行与金融服务",
+      "url": "https://www.hsbc.com/careers/students-and-graduates/find-a-programme",
+      "priority": "A",
+      "aliases": [
+        "HSBC"
+      ]
+    },
+    {
+      "id": "e078",
+      "name": "Hang Seng Bank 恒生银行",
+      "industry": "银行与金融服务",
+      "url": "https://www.hangseng.com/en-hk/about/careers/internship-opportunities/",
+      "priority": "A",
+      "aliases": [
+        "Hang Seng Bank",
+        "Hang Seng"
+      ]
+    },
+    {
+      "id": "e079",
+      "name": "Standard Chartered 渣打",
+      "industry": "银行与金融服务",
+      "url": "https://www.sc.com/en/global-careers/early-careers/",
+      "priority": "A",
+      "aliases": [
+        "Standard Chartered",
+        "Standard Chartered Bank"
+      ]
+    },
+    {
+      "id": "e080",
+      "name": "Citi 花旗",
+      "industry": "银行与金融服务",
+      "url": "https://jobs.citi.com/students-graduates",
+      "priority": "B",
+      "aliases": [
+        "Citi",
+        "Citigroup"
+      ]
+    },
+    {
+      "id": "e081",
+      "name": "JPMorganChase 摩根大通",
+      "industry": "银行与金融服务",
+      "url": "https://www.jpmorganchase.com/careers/students",
+      "priority": "B",
+      "aliases": [
+        "JPMorgan Chase",
+        "JPMorganChase",
+        "J.P. Morgan",
+        "JPMorgan Chase & Co."
+      ]
+    },
+    {
+      "id": "e082",
+      "name": "Goldman Sachs 高盛",
+      "industry": "金融服务",
+      "url": "https://www.goldmansachs.com/careers/students/",
+      "priority": "B",
+      "aliases": [
+        "Goldman Sachs"
+      ]
+    },
+    {
+      "id": "e083",
+      "name": "Morgan Stanley 摩根士丹利",
+      "industry": "金融服务",
+      "url": "https://www.morganstanley.com/careers/career-opportunities-search",
+      "priority": "B",
+      "aliases": [
+        "Morgan Stanley"
+      ]
+    },
+    {
+      "id": "e084",
+      "name": "Bank of China (Hong Kong) 中银香港",
+      "industry": "银行与金融服务",
+      "url": "https://www.bochk.com/en/aboutus/careers.html",
+      "priority": "B",
+      "aliases": [
+        "Bank of China (Hong Kong)"
+      ]
+    },
+    {
+      "id": "e085",
+      "name": "ICBC (Asia) 工银亚洲",
+      "industry": "银行与金融服务",
+      "url": "https://www.icbcasia.com/ICBC/EN/Careers/",
+      "priority": "B",
+      "aliases": [
+        "ICBC (Asia) 工银亚洲"
+      ]
+    },
+    {
+      "id": "e086",
+      "name": "HKEX 香港交易所",
+      "industry": "金融市场基础设施",
+      "url": "https://www.hkexgroup.com/About-HKEX/Careers-at-HKEX/Early-Careers",
+      "priority": "A",
+      "aliases": [
+        "HKEX",
+        "Hong Kong Exchanges and Clearing"
+      ]
+    },
+    {
+      "id": "e087",
+      "name": "Accenture 埃森哲",
+      "industry": "咨询与科技服务",
+      "url": "https://www.accenture.com/hk-en/careers/local/students",
+      "priority": "A",
+      "aliases": [
+        "Accenture 埃森哲"
+      ]
+    },
+    {
+      "id": "e088",
+      "name": "Deloitte 德勤",
+      "industry": "专业服务",
+      "url": "https://www2.deloitte.com/cn/en/careers/students.html",
+      "priority": "A",
+      "aliases": [
+        "Deloitte"
+      ]
+    },
+    {
+      "id": "e089",
+      "name": "PwC 普华永道",
+      "industry": "专业服务",
+      "url": "https://www.pwccn.com/en/careers/students.html",
+      "priority": "A",
+      "aliases": [
+        "PwC",
+        "PricewaterhouseCoopers"
+      ]
+    },
+    {
+      "id": "e090",
+      "name": "EY 安永",
+      "industry": "专业服务",
+      "url": "https://www.ey.com/en_cn/careers/students",
+      "priority": "A",
+      "aliases": [
+        "EY",
+        "Ernst & Young"
+      ]
+    },
+    {
+      "id": "e091",
+      "name": "KPMG 毕马威",
+      "industry": "专业服务",
+      "url": "https://kpmg.com/cn/en/home/careers/graduates.html",
+      "priority": "A",
+      "aliases": [
+        "KPMG 毕马威"
+      ]
+    },
+    {
+      "id": "e092",
+      "name": "McKinsey & Company 麦肯锡",
+      "industry": "管理咨询",
+      "url": "https://www.mckinsey.com/careers/students",
+      "priority": "A",
+      "aliases": [
+        "McKinsey & Company",
+        "McKinsey"
+      ]
+    },
+    {
+      "id": "e093",
+      "name": "Boston Consulting Group 波士顿咨询",
+      "industry": "管理咨询",
+      "url": "https://careers.bcg.com/",
+      "priority": "A",
+      "aliases": [
+        "Boston Consulting Group",
+        "BCG"
+      ]
+    },
+    {
+      "id": "e094",
+      "name": "HKTDC 香港贸易发展局",
+      "industry": "贸易促进",
+      "url": "https://www.hktdc.com/aboutus/en/careers",
+      "priority": "B",
+      "aliases": [
+        "HKTDC"
+      ]
+    },
+    {
+      "id": "e095",
+      "name": "HKSTP 香港科技园公司",
+      "industry": "创新科技生态",
+      "url": "https://www.hkstp.org/en/careers/",
+      "priority": "B",
+      "aliases": [
+        "HKSTP"
+      ]
+    },
+    {
+      "id": "e096",
+      "name": "Cyberport 数码港",
+      "industry": "创新科技生态",
+      "url": "https://www.cyberport.hk/en/about_cyberport/careers",
+      "priority": "B",
+      "aliases": [
+        "Cyberport 数码港"
+      ]
+    },
+    {
+      "id": "e097",
+      "name": "LVMH",
+      "industry": "奢侈品与零售",
+      "url": "https://www.lvmh.com/en/join-us/our-job-offers",
+      "priority": "A",
+      "aliases": [
+        "LVMH", "Moët Hennessy", "Moet Hennessy", "Louis Vuitton", "Christian Dior", "Loewe", "Celine", "Tiffany", "Fendi", "Sephora"
+      ]
+    }
+  ],
+  "watch_urls": [
+    {
+      "company": "Hang Seng Bank 恒生银行",
+      "title": "Student Internship Programme 1H2027",
+      "url": "https://www.hangseng.com/en-hk/about/careers/internship-opportunities/"
+    },
+    {
+      "company": "HSBC 汇丰",
+      "title": "HSBC Student Work Placement",
+      "url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-HSBC-Student-Work-Placement-Hong/1367003857/"
+    },
+    {
+      "company": "HSBC 汇丰",
+      "title": "Markets - Sales and Trading Off-Cycle Internship",
+      "url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Markets-Sales-and-Trading-Internship-Hong/1371076057/"
+    },
+    {
+      "company": "CLP Power 中电",
+      "title": "SAND 12-month Internship Programme",
+      "url": "https://www.clpgroup.com/en/careers/working-at-clp/working-with-us.html"
+    },
+    {
+      "company": "Animoca Brands",
+      "title": "Investments & Strategic Partnerships Internship",
+      "url": "https://jobs.lever.co/animocabrands?commitment=Intern"
+    },
+    {
+      "company": "Hypebeast",
+      "title": "Creative Intern",
+      "url": "https://jobs.lever.co/hypebeast?by=location&commitment=Internship"
+    },
+    {
+      "company": "P&G 宝洁",
+      "title": "Product Supply Intern",
+      "url": "https://www.pgcareers.com/global/en/greater-china-hong-kong-sar"
+    },
+    {
+      "company": "P&G 宝洁",
+      "title": "Sales Intern",
+      "url": "https://www.pgcareers.com/global/en/greater-china-hong-kong-sar"
+    },
+    {
+      "company": "P&G 宝洁",
+      "title": "Brand Intern",
+      "url": "https://www.pgcareers.com/global/en/greater-china-hong-kong-sar"
+    },
+    {
+      "company": "P&G 宝洁",
+      "title": "Finance Intern",
+      "url": "https://www.pgcareers.com/global/en/greater-china-hong-kong-sar"
+    },
+    {
+      "company": "Standard Chartered 渣打",
+      "title": "Transaction Services Intern Hong Kong 2027",
+      "url": "https://jobs.standardchartered.com/job/Central-Transaction-Services-Intern-Hong-Kong-2027/59114-en_GB/"
+    },
+    {
+      "company": "HSBC 汇丰",
+      "title": "Investment Banking - Infrastructure Finance Internship",
+      "url": "https://apply.careers.hsbc.com/emergingtalent/job/Wanchai-Investment-Banking-HSBC-Infrastructure-Finance-Internship-Hong/1365767657/"
+    },
+    {
+      "company": "HSBC 汇丰",
+      "title": "Relationship Management - CIB Internship",
+      "url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Relationship-Management-Corporate-and-Institutional-Banking-Internship-Hong/1365768957/"
+    },
+    {
+      "company": "HSBC 汇丰",
+      "title": "Global Investment Research Internship",
+      "url": "https://apply.careers.hsbc.com/emergingtalent/job/Wanchai-Global-Investment-Research-Internship-Hong/1365767957/"
+    },
+    {
+      "company": "HSBC 汇丰",
+      "title": "Markets - Sales and Trading Internship",
+      "url": "https://apply.careers.hsbc.com/emergingtalent/job/Central-Markets-Sales-and-Trading-Internship-Hong/1365768857/"
+    },
+    {
+      "company": "Citi 花旗",
+      "title": "Services Summer Analyst Hong Kong 2027",
+      "url": "https://jobs.citi.com/job/hong-kong/services-summer-analyst-hong-kong-2027/287/98171092416"
+    },
+    {
+      "company": "Citi 花旗",
+      "title": "Markets - Sales and Trading Summer Analyst 2027",
+      "url": "https://jobs.citi.com/job/hong-kong/markets-sales-and-trading-summer-analyst-hong-kong-2027/287/97603330976"
+    },
+    {
+      "company": "Goldman Sachs 高盛",
+      "title": "2027 APAC Summer Analyst",
+      "url": "https://www.goldmansachs.com/careers/students/programs-and-internships/asia-pacific/summer-analyst"
+    },
+    {
+      "company": "JPMorganChase 摩根大通",
+      "title": "Global Investment Banking Summer Analyst 2027",
+      "url": "https://www.jpmorganchase.com/careers/explore-opportunities/programs/investment-banking-summer-analyst?tags=location__AsiaPacific__HongKongSARChina"
+    },
+    {
+      "company": "Morgan Stanley 摩根士丹利",
+      "title": "2027 Finance Summer Analyst Program",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-27ae6f5d3480/candidate/jobboard/vacancy/1/adv/?f_Item_Opportunity_17048_lk=770&f_Item_Opportunity_17058_lk=133366"
+    },
+    {
+      "company": "Morgan Stanley 摩根士丹利",
+      "title": "2027 Fixed Income Industrial Placement / Summer Analyst",
+      "url": "https://morganstanley.tal.net/vx/lang-en-GB/mobile-0/brand-2/user-5764832/xf-27ae6f5d3480/candidate/jobboard/vacancy/1/adv/?f_Item_Opportunity_17048_lk=770&f_Item_Opportunity_17058_lk=133366"
+    },
+    {
+      "company": "HKEX 香港交易所",
+      "title": "Summer Internship Programme",
+      "url": "https://www.hkexgroup.com/About-HKEX/Careers-at-HKEX/Early-Careers"
+    },
+    {
+      "company": "Swire Pacific 太古集团",
+      "title": "Swire Summer Internship Programme 2027",
+      "url": "https://careers.swire.com/en/careers/swire-summer-internship-programme"
+    },
+    {
+      "company": "MTR Corporation 港铁公司",
+      "title": "HK Summer Internship - Procurement & Supply Chain",
+      "url": "https://www.mtr.com.hk/summer-internship-programme/en/programA.html"
+    },
+    {
+      "company": "Cathay Pacific 国泰航空",
+      "title": "Cathay Internship Programme 2027",
+      "url": "https://careers.cathaypacific.com/en/careers/our-teams/early-careers-students-and-graduates"
+    },
+    {
+      "company": "CLP Power 中电",
+      "title": "SUM Internship Programme",
+      "url": "https://www.clpgroup.com/en/careers/working-at-clp/working-with-us.html"
+    },
+    {
+      "company": "Airport Authority Hong Kong 香港机场管理局",
+      "title": "Summer Internship",
+      "url": "https://careers.hkairport.com/careersection/ex_intern/jobsearch.ftl"
+    }
+  ],
+  "jobspy": {
+    "sites": [
+      "indeed",
+      "linkedin"
+    ],
+    "location": "Hong Kong",
+    "country_indeed": "Hong Kong",
+    "hours_old": 336,
+    "results_wanted": 50,
+    "queries": [
+      "supply chain intern",
+      "logistics intern",
+      "procurement intern",
+      "operations intern",
+      "business analyst intern",
+      "finance intern",
+      "quantitative intern",
+      "summer internship 2027",
+      "graduate programme 2028",
+      "management trainee"
+    ]
+  }
+}
