@@ -4,14 +4,17 @@ on:
   push:
     branches: [main]
   schedule:
+    # 08:15 Hong Kong, Sunday-Friday; Saturday is the full check below.
+    - cron: '15 0 * * 0-5'
     # Saturday 09:00 Hong Kong = Saturday 01:00 UTC; GitHub may delay runs.
     - cron: '0 1 * * 6'
   workflow_dispatch:
     inputs:
-      refresh:
-        description: Fetch employer, Workopia and JobSpy sources before publishing
-        type: boolean
-        default: true
+      profile:
+        description: light = FreeHire + Workopia; full = all sources; publish = deploy only
+        type: choice
+        options: [light, full, publish]
+        default: light
 
 permissions:
   contents: read
@@ -23,7 +26,7 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 90
     permissions:
       contents: write
     steps:
@@ -48,12 +51,27 @@ jobs:
           key: job-source-cache-${{ github.run_id }}
           restore-keys: job-source-cache-
       - name: Refresh public sources
-        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
-        run: python update.py
+        id: refresh
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.profile != 'publish')
+        env:
+          EVENT: ${{ github.event_name }}
+          SCHEDULE: ${{ github.event.schedule }}
+          PROFILE: ${{ inputs.profile }}
+        run: |
+          if [ "$EVENT" = schedule ]; then
+            if [ "$SCHEDULE" = '0 1 * * 6' ]; then PROFILE=full; else PROFILE=light; fi
+          fi
+          python update.py --profile "$PROFILE"
+      - name: Retain failure diagnostics
+        if: failure() && steps.refresh.outcome == 'failure'
+        uses: actions/upload-artifact@v4
+        with:
+          name: source-failure-report
+          path: output/last-failure.json
       - name: Validate public data and build portable site
         run: python build.py
       - name: Save updated data only
-        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.refresh)
+        if: github.event_name == 'schedule' || (github.event_name == 'workflow_dispatch' && inputs.profile != 'publish')
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
