@@ -1,22 +1,30 @@
 """Build a portable static folder from explicitly public files only."""
 import json
 import shutil
+import hashlib
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
-JOB_KEYS = {"id","company","title","category","origin","posted","deadline","url","source","note","location","first_seen","last_seen","state"}
+JOB_KEYS = {"id","company","title","category","origin","posted","deadline","url","source","note","location","first_seen","last_seen","state","last_verified","description","role_tags","season","track","review_reasons","timing","requirements","project_years","match_evidence","watchlist","sources","legacy_ids","changed_at"}
 SOURCE_KEYS = {"id","name","url","status","message","jobs","checked_at"}
 
 def validate(data):
-    assert set(data) == {"updated_at","employer_count","jobs","sources"}, "Unexpected public snapshot fields"
-    assert data["jobs"] and len(data["jobs"]) <= 20000
+    assert set(data) == {"version","updated_at","employer_count","jobs","sources","health"}, "Unexpected public snapshot fields"
+    assert data['version']==2
+    assert len(data["jobs"]) <= 20000
+    assert set(data['health']) <= {'last_light_success','last_full_success','last_attempt','profile','failed_sources','new_count','changed_count'}
     assert len({j["id"] for j in data["jobs"]}) == len(data["jobs"]), "Duplicate job IDs"
     for job in data["jobs"]:
         assert set(job) <= JOB_KEYS, "Private or unknown field in public jobs"
-        assert job["category"] in ("daily","summer","graduate")
+        assert job["category"] in ("daily","holiday","graduate")
         assert job["origin"] in ("employer","external")
         assert job["url"].startswith(("https://","http://"))
         assert len(job["id"]) == 24 and all(c in "abcdef0123456789" for c in job["id"])
+        assert set(job.get('timing',{})) <= {'start','duration','days'}
+        assert job['state'] in ('active','review','recheck','excluded','archived')
+        for source in job.get('sources',[]):
+            assert set(source) <= {'name','url','seen_at','official'}
+            assert source['url'].startswith(('https://','http://'))
     for source in data["sources"]:
         assert set(source) <= SOURCE_KEYS, "Unexpected source fields"
     return data
@@ -33,6 +41,12 @@ def main():
         shutil.copyfile(ROOT/name, out/name)
     encoded = json.dumps(data,ensure_ascii=False,separators=(",", ":")).replace("<", "\\u003c").replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
     (out/"jobs-data.js").write_text("window.JOB_DATA="+encoded+";\n",encoding="utf-8")
+    # Version assets together to avoid the old UI reading a new schema from Pages cache.
+    html=(out/'index.html').read_text()
+    for name in ('style.css','core.js','app.js','jobs-data.js'):
+        digest=hashlib.sha256((out/name).read_bytes()).hexdigest()[:12]
+        html=html.replace('"'+name+'"','"'+name+'?v='+digest+'"')
+    (out/'index.html').write_text(html)
     (out/".nojekyll").touch()
     print(json.dumps({"jobs":len(data["jobs"]),"files":len(list(out.iterdir())),"output":str(out)}))
 

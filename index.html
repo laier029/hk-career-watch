@@ -1,30 +1,35 @@
 <!doctype html>
 <html lang="zh-Hans">
 <head>
-  <meta charset="utf-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="referrer" content="no-referrer">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'self'; object-src 'none'; base-uri 'none'">
-  <title>香港求职追踪</title>
-  <link rel="stylesheet" href="style.css">
-  <script src="jobs-data.js" defer></script>
-  <script src="core.js" defer></script>
-  <script src="app.js" defer></script>
+  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self'; img-src 'self' data:; connect-src 'none'; object-src 'none'; base-uri 'none'">
+  <title>香港求职追踪 · 待查看</title>
+  <link rel="stylesheet" href="style.css"><script src="jobs-data.js" defer></script><script src="core.js" defer></script><script src="app.js" defer></script>
 </head>
-<body>
-<main>
-  <header><div><h1>香港求职追踪</h1><p>2027 实习 · 2028 毕业项目</p></div><div class="update"><span>计划每周六 09:00 · 香港时间</span><span id="stamp">正在加载…</span></div></header>
-  <nav id="sections" aria-label="岗位来源"></nav>
-  <div class="heading"><div><h2 id="heading">雇主清单</h2><p id="description"></p></div><div class="backup"><button id="export">导出已读</button><button id="import">导入已读</button><input id="import-file" type="file" accept="application/json,.json" hidden></div></div>
-  <nav id="categories" aria-label="项目类别"></nav>
-  <p class="privacy">已读记录仅保存在当前浏览器，不会上传。更换设备或清理浏览器前请导出备份。</p>
-  <p id="error" role="alert" hidden></p>
-  <p id="notice" role="status" aria-live="polite"></p>
-  <section class="panel" aria-label="岗位列表"><table><thead><tr><th>公司</th><th>岗位名称</th><th>发布日期</th><th>截止日期</th><th>岗位链接</th><th>阅读状态</th></tr></thead><tbody id="jobs"></tbody></table><div id="empty" hidden>本分类暂无岗位。可切换其他项目类别。</div></section>
-  <footer><p>日期未注明不代表长期开放；外部发现仅为线索，请以雇主原始页面为准。未在本轮重新发现的岗位会保留，但可能已关闭。</p>
-    <details><summary id="source-summary">筛选条件与更新记录</summary><div class="details-body"><p>香港地区的供应链、物流、采购、计划、运营、数据／商业分析、金融／量化、咨询及相关商科实习或毕业项目。2027 届项目需另行确认毕业与入职要求。</p><p>97 家雇主采用公开接口和有限页面检查；不代表全量覆盖。Workopia 香港清单与 JobSpy（Indeed／LinkedIn）采用固定筛选条件；JobSpy 查询近 14 天、每词每站最多 50 条。抓取失败不代表没有岗位。</p><div id="sources"></div></div></details>
-    <p>发现来源：<a href="https://github.com/workopia/Hong-Kong-Graduate-Internship-Jobs" target="_blank" rel="noopener noreferrer">Workopia</a> · <a href="https://github.com/speedyapply/JobSpy" target="_blank" rel="noopener noreferrer">JobSpy</a>。本页面及采集不需要 ChatGPT 或 Google 登录。</p>
+<body><a class="skip" href="#list">跳至岗位</a><main>
+  <header><div><p class="eyebrow">HK CAREER WATCH</p><h1>香港求职追踪<span class="dot">.</span></h1><p>2027 实习 / 2028 毕业项目 · 香港</p></div><div class="update"><div id="stamp">载入快照…</div><div id="delta"></div></div></header>
+  <div class="toolbar"><nav id="tracks" aria-label="求职方向"></nav><div class="backup"><button id="export">导出记录</button><button id="import">导入</button><input id="import-file" type="file" accept="application/json,.json" hidden></div></div>
+  <p id="error" role="alert" hidden></p><p id="health" class="warning" hidden></p>
+  <nav id="tabs" class="tabs" aria-label="工作队列"></nav>
+  <section class="filters" aria-label="筛选岗位">
+    <div class="filter-top"><label class="search">搜索公司或岗位<input id="search" type="search" placeholder="例如 Procurement、计划、LVMH" autocomplete="off"></label><nav id="categories" aria-label="项目类型"></nav></div>
+    <div id="tags" class="tags" aria-label="供应链方向"></div>
+    <details id="more-filters"><summary>更多筛选 <span id="filter-count"></span></summary><div class="selects">
+      <label>重点雇主<select id="watchlist"><option value="">全部企业</option><option value="yes">97 家重点雇主</option><option value="no">外部发现企业</option></select></label>
+      <label>来源范围<select id="origin"><option value="">全部范围</option><option value="employer">雇主官网</option><option value="external">外部发现</option></select></label>
+      <label>发现来源<select id="source"><option value="">全部来源</option><option>雇主官网</option><option>FreeHire</option><option>Workopia</option><option>JobSpy</option></select></label>
+      <label>阅读状态<select id="status"><option value="">全部状态</option><option value="read">已读岗位</option><option value="unread">未读岗位</option><option value="dismissed">不合适</option></select></label>
+      <label class="check"><input type="checkbox" id="history">全部岗位中包含归档 / 排除</label>
+      <button id="reset">重置筛选</button>
+    </div></details>
+  </section>
+  <div class="list-heading"><div><h2 id="heading">待查看</h2><p id="notice" role="status" aria-live="polite"></p></div><div class="quick"><button id="new">本次新增 / 更新</button><button id="closing">7 天内截止</button></div></div>
+  <div class="batch"><label><input id="select-all" type="checkbox">选中当前结果</label><button id="batch-read" disabled>选中项标为已读</button><button id="finish">记下本次检查时间</button></div>
+  <section id="list" tabindex="-1" aria-label="岗位列表"><div id="jobs"></div><div id="empty" hidden><h3>当前没有匹配结果</h3><p>可以清除筛选，或到「待核实」查看资料不完整的线索。</p></div></section>
+  <div id="toast" role="status" aria-live="polite" hidden><span id="toast-text"></span><button id="undo">撤销</button></div>
+  <footer><p>个人状态仅在本浏览器保存，不上传。更换设备或清理浏览器前请导出。点击原岗位不会自动标为已投递。</p>
+    <details><summary id="source-summary">来源与检查记录</summary><div class="details-body"><p>每日 08:15：FreeHire + Workopia；周六 09:00：四类来源全面检查，当天不重复轻量任务。均为香港时间，GitHub 排程可能延迟。</p><p>重点雇主官网采用公开 ATS 与有限页面检查，不保证完整覆盖。JobSpy 查询近 14 天，每词每站目标 100 条，触顶单独提示。来源失败不代表岗位关闭。30 天未获官方确认进入待复查。</p><p>只收实习 / 学生 Placement / 正式 Graduate Programme / MT。未知要求不推断，一月入职不自动算寒假。2027 毕业项目需核对你的 2027 年 11 月毕业时间。</p><div id="sources"></div></div></details>
+    <p><a href="https://github.com/laier029/hk-career-watch" target="_blank" rel="noopener noreferrer">GitHub / 手动更新 ↗</a> · 不需要 Google 或 ChatGPT 登录 · 所有筛选在本地完成</p>
   </footer>
-</main>
-</body>
-</html>
+</main></body></html>

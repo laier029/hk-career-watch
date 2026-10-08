@@ -1,0 +1,46 @@
+{
+  "version": 2,
+  "target_summer_year": 2027,
+  "target_graduate_year": 2028,
+  "stale_days": 30,
+  "company_overrides": {"https://apply.workable.com/j/929B9618D2": "Love, Bonito"},
+  "non_sc_titles": "\\b(financ[a-z]*|quant[a-z]*|investment|equities|trading|wealth|digital product|IT application|media|events?|rooms|training|growth strategist|client service|business development|data engineering|IT infrastructure|marketing|observability engineer)\\b",
+  "non_sc_context": "expert sourcing|data sourcing|sourcing projects|expert-related logistics|event.{0,25}logistics|logistics.{0,20}events?|knack for logistics|gift sourcing|pitch-related logistics|asset inventory|operations research|industrial engineering|certified B-?\\s*Corp|logistic regression|software distribution|shipping (?:web|backend|software)",
+  "directions": {
+    "procurement": {"label": "采购与寻源", "pattern": "\\b(procurement|purchasing|buyer|sourcing|supplier management|vendor management)\\b|采购|採購|寻源|尋源|供应商|供應商"},
+    "planning": {"label": "计划与库存", "pattern": "\\b(demand planning|supply planning|production planning|material[s]? planning|inventory|replenishment|demand forecast[a-z]*|s&op|merchandise planning)\\b|需求计划|需求計劃|供应计划|供應計劃|生产计划|生產計劃|库存|庫存|补货|補貨"},
+    "logistics": {"label": "物流与履约", "pattern": "\\b(logistics?|transportation|shipping|freight|warehous[a-z]*|distribution|fulfil[l]?ment|last mile)\\b|物流|运输|運輸|仓储|倉儲|货运|貨運|配送"},
+    "analytics": {"label": "供应链分析与运营", "pattern": "\\b(supply chain|product supply|operations research|industrial engineering)\\b|供应链|供應鏈|运筹|運籌|工业工程|工業工程"}
+  },
+  "business": "\\b(finance|financial|banking|investment|markets?|trading|quant[a-z]*|research|consult[a-z]*|strategy|strategic|risk|compliance|sales|retail|brand|marketing|merchandis[a-z]*|business|commercial|analyst|analytics|data|operations?|product|management)\\b|金融|财务|財務|咨询|諮詢|商业|商業|分析|运营|營運",
+  "intern": "\\bintern(?:ship)?s?\\b|\\b(?:industrial|student|work) placement\\b|\\bco[ -]?op\\b|实习|實習|见习|見習",
+  "graduate": "\\bgraduate (?:program(?:me)?|scheme|trainee|analyst|associate|engineer)\\b|\\b(?:management|executive|operations|logistics) trainee\\b|\\b(?:summer|winter) analyst\\b|\\b(?:202[6-9]|2030).*graduate program(?:me)?\\b|管培|管理培训生|管理培訓生|毕业生计划|畢業生計劃",
+  "senior": "\\b(?:senior|principal|director|head of|vice president|vp|chief|staff engineer)\\b|资深|資深|总监|總監",
+  "irrelevant": "\\b(?:nurse|doctor|clinical|software engineer|software developer|frontend|backend|full[ -]stack|civil engineer|mechanical engineer|human resources|hr officer|hrbp|talent acquisition|actuari[a-z]*|legal|lawyer)\\b|护理|護理|护士|護士|人力资源|人力資源|律师|律師",
+  "non_job": "\\b(?:career fair|experience day|talent community|expression of interest|job alerts)\\b|招聘会|招聘會",
+  "winter": "winter|寒假|寒期|冬季实习|冬季實習",
+  "summer": "summer|暑期|暑假",
+  "closed": "no longer available|position has been filled|job has expired|job is closed|applications? (?:are )?closed|application for.{0,40}has been closed|application period\\s*:?\\s*closed|职位已关闭|職位已關閉|申请已截止|申請已截止",
+  "jobspy_queries": [
+    "supply chain intern", "procurement intern", "purchasing intern", "sourcing intern", "buyer intern",
+    "demand planning intern", "supply planning intern", "production planning intern", "inventory intern", "replenishment intern",
+    "logistics intern", "shipping intern", "freight intern", "warehouse intern", "distribution intern",
+    "supply chain analyst intern", "operations analyst intern", "supply chain placement",
+    "supply chain graduate", "procurement graduate", "logistics trainee", "management trainee",
+    "winter internship", "summer internship 2027", "graduate programme 2028",
+    "採購 實習", "供應鏈 實習", "物流 實習", "計劃 實習",
+    "business analyst intern", "finance intern", "quantitative intern"
+  ],
+  "freehire": {
+    "base_url": "https://freehire.me/api/v1",
+    "page_size": 100,
+    "max_pages": 30,
+    "queries": [
+      {"employment_type": "internship"}, {"q": "graduate programme"}, {"q": "management trainee"},
+      {"q": "supply chain"}, {"q": "procurement"}, {"q": "purchasing"}, {"q": "sourcing"},
+      {"q": "demand planning"}, {"q": "supply planning"}, {"q": "production planning"},
+      {"q": "inventory"}, {"q": "replenishment"}, {"q": "logistics"}, {"q": "freight"},
+      {"q": "shipping"}, {"q": "warehouse"}, {"q": "product supply"}, {"q": "winter internship"}
+    ]
+  }
+}
